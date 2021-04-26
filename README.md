@@ -1,10 +1,10 @@
 # FC-finalMachineLearningProject-LendingClub
 My final machine learning project for Future Collars Data Science bootcamp.
 
-#About Lending Club
+# About Lending Club
 Lending Club is a peer-to-peer lending company that connects borrowers with investors through an online platform. It serves people who need personal loans ranging from $ 1,000 to $ 40,000. Borrowers receive the full amount of the loan granted, minus the initial fee that is paid to the company. Investors buy promissory notes backed by personal loans and pay the Lending Club a service fee. The Lending Club company provides data on all loans granted via its platform during specified periods. 
 
-#About project
+# About project
 The task was to use LC data from period 2007 - 2011 to build predictive model of default client with Charge Off and Fully Paid loan statuses. There were 4 main stages to be executed before building final model:
 1. Data Processing
 2. Exploratory Data Analysis (EDA)
